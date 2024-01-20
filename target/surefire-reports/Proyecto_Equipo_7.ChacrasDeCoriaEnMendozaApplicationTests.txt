@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Proyecto_Equipo_7.ChacrasDeCoriaEnMendozaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.243 s - in Proyecto_Equipo_7.ChacrasDeCoriaEnMendozaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.34 s - in Proyecto_Equipo_7.ChacrasDeCoriaEnMendozaApplicationTests
